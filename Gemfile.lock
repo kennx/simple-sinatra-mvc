@@ -162,6 +162,7 @@ DEPENDENCIES
   pony (>= 1.4)
   pry
   rack-flash3
+  rack-protection (>= 1.2.0)
   rake (>= 0.8.7)
   rspec (>= 2.11.0)
   sass (>= 3.2.1)
